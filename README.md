@@ -6,4 +6,4 @@
 - JavaScript
 
 ## Live Version
-https://lukacsma.github.io/red-egg/
+https://lukacsma.github.io/red-egg/index
